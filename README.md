@@ -1,5 +1,5 @@
                                                     ***** UPDATE WILL BE MADE *****
--- Flowchart for the project:
+-- Flowchart for the project: 1.STUDENT
 
 1.STUDENT
 ![ogrencidiyagram](https://github.com/YusufAtti/University_Course_Selection_System/assets/158186024/5cfaa6df-14f4-4fce-aad5-3a330b64a638)
